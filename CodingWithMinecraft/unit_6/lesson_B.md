@@ -3,7 +3,7 @@
 # Activity: Zombie Pig 
 
 ## Step 1
-Make a function. Click the Advanced tab on the Toolbox to display more Toolbox categories. 
+Make a function. Click the Advanced tab on the Toolbox to display more Toolbox categories test. 
 
 Name this function **zombiepig**, and click **Ok**.
 
